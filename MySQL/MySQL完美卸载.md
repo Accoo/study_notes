@@ -1,0 +1,5 @@
+# MySQL完美卸载
+
+1. 双击安装包，点击下一步，然后点击remove，卸载；
+2. 手动删除Program Files中的MySQL目录；
+3. 手动删除ProgramDate目录（这个目录是隐藏的，与Program Files同一目录）中的MySQL。
